@@ -11,4 +11,4 @@ Buenas, decir queda después de esta divertida presentación, que me lo he pasad
   los cuales me han ayudado con todo, a mi tutor y compañeros en la empresa, que nos han acojido en ella como si fueramos uno más, y a vosotros los profesores que haceis
   esto posible. Gracias por esta oportunidad, al principio tenia mis dudas sobre aventurarme a los desconocido con la dual pero ahora estoy muy seguro de que es la mejor manera de asentar lo
   aprendido en clase y aprender muchas nuevas cosas.
-<img src="./dist/Presentacion/assets/img2/alejandro.png" width="300px">
+<img src="./dist/Presentacion/assets/img2/alejandro.png" width="400px">
